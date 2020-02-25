@@ -2,8 +2,6 @@
 ## Northeastern University
 
 ## CS3500 - Object Oriented Design
-Partners: Inga Wei and Jemin Park
-
 ## Scope
 The scope of this project is to take in a file with descriptions of shapes and movements, and create a visual animation out of these files.
  
